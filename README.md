@@ -1,6 +1,8 @@
 # Nigeria-COVID-19-Data-Analysis-Using-Python
 Data Scientist Microdegree Capstone Project
+
 Author: Oluwatola Joshua Ayodeji
+
 Date: 05-06-2021
 
 ## Project Overview
