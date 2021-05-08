@@ -16,8 +16,9 @@ This project is organized as follows :
 - Data Collection
 - Data Cleaning and Preparation
 - Data Analysis
-- Executive Summary
 
 Datasets used: Budget data.csv, RealGDP.csv, covid_external.csv, [NCDC metrics on COVID-19 across the 37 states (FCT included)](https://covid19.ncdc.gov.ng/), [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv) 
 
-covidproject.ipynb : The jupyter notebook containing the project code
+covidproject.ipynb: The jupyter notebook containing the project code
+
+Executive Summary: 
